@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Takuma｜Frontend Engineer</h1>
 
-<!--
-**takuma-tsx/takuma-tsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about clean code, UI/UX, and learning in public.<br>
+  Building with TypeScript, Next.js, and Tailwind CSS.<br>
+  Sharing real internship experiences through <a href="https://techroid.jp" target="_blank">TechRoid</a>.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,react,nodejs,prisma,githubactions" alt="Tech Stack" />
+
+---
+
+## ✍️ Recent Focus
+
+- Improving TypeScript skills
+- Exploring backend development with Node.js and Prisma
+- Running an internship-focused media site for engineering students → [TechRoid](https://techroid.jp)
+
+---
+
+## 🌱 About Me
+
+> "Learning by doing.  
+> Breaking things (in dev branch, of course).  
+> And sharing every step."
+
+Previously focused on internal development at work, but recently started sharing more personal projects here.
+
+---
+
+<p align="center">
+  Thanks for visiting 🚀
+</p>
