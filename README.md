@@ -32,6 +32,17 @@ Previously focused on internal development at work, but recently started sharing
 
 ---
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takuma-tsx5&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takuma-tsx&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takuma-tsx15&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takuma-tsx&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takuma-tsx&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=takuma-tsx&theme=gruvbox)
+
+---
 <p align="center">
   Thanks for visiting 🚀
 </p>
