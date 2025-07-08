@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" alt="Coding GIF" width="200"/>
+</p>
 <h1 align="center">👋 Hi, I'm Takuma｜Frontend Engineer</h1>
 
 <p align="center">
