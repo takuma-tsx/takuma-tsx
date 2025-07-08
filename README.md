@@ -18,8 +18,11 @@
 </p>
 ---
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img src="https://github-readme-stats-eta-ivory.vercel.app/api/top-langs/?username=takuma-tsx&theme=github_dark&layout=compact&hide_title=true&card_width=400" alt="Top Langs" />
+  </a>
+</p>
 ## ✍️ Recent Focus
 
 - Improving TypeScript skills
