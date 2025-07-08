@@ -6,6 +6,10 @@
   Sharing real internship experiences through <a href="https://techroid.jp" target="_blank">TechRoid</a>.
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/takuma-tsx/count.svg" alt="Profile views" />
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
