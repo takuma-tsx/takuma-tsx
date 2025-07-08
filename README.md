@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTY3NGpsMjQyZmp2dTl1a2UwcHJnanNnZnowZjV0dHRmMDhyeTgzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" alt="Coding GIF" width="200"/>
-</p>
 <h1 align="center">👋 Hi, I'm Takuma｜Frontend Engineer</h1>
 
 <p align="center">
