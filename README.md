@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,react,nodejs,prisma,githubactions" alt="Tech Stack" />
 </p>
-
+[![Top Langs](https://github-readme-stats-git-master-takuma-tsxs-projects.vercel.app/api/top-langs/?username=takuma-tsx)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   [![Top Langs](https://github-readme-stats-git-master-takuma-tsxs-projects.vercel.app/api/top-langs/?username=takuma-tsx&theme=github_dark&layout=compact&hide_title=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 </p>
