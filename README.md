@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,react,nodejs,prisma,githubactions" alt="Tech Stack" />
 </p>
 <p align="center">
-[![Top Langs](github-readme-stats-git-master-takuma-tsxs-projects.vercel.app/api/top-langs/?username=takuma-tsx&theme=github_dark&layout=compact&hide_title=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eta-ivory.vercel.app/api/top-langs/?username=takuma-tsx&theme=github_dark&layout=compact&hide_title=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 ---
 
