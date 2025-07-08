@@ -18,6 +18,8 @@
 </p>
 ---
 
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 ## ✍️ Recent Focus
 
 - Improving TypeScript skills
