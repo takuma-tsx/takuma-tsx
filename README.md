@@ -14,15 +14,13 @@
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,react,nodejs,prisma,githubactions" alt="Tech Stack" />
 </p>
 <p align="center">
-[![Top Langs](https://github-readme-stats-eta-ivory.vercel.app/api/top-langs/?username=takuma-tsx&theme=github_dark&layout=compact&hide_title=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
-</p>
----
-
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats-eta-ivory.vercel.app/api/top-langs/?username=takuma-tsx&theme=github_dark&layout=compact&hide_title=true&card_width=400" alt="Top Langs" />
   </a>
 </p>
+
+---
+
 ## ✍️ Recent Focus
 
 - Improving TypeScript skills
