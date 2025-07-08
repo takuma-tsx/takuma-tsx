@@ -16,9 +16,6 @@
 <p align="center">
 [![Top Langs](https://github-readme-stats-eta-ivory.vercel.app/api/top-langs/?username=takuma-tsx&theme=github_dark&layout=compact&hide_title=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-[![Top Langs](https://github-readme-stats-eta-ivory.vercel.app/api/top-langs/?username=takuma-tsx&theme=github_dark&layout=compact&hide_title=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuma-tsx&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## ✍️ Recent Focus
