@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/takuma-tsx/count.svg" alt="Profile views" />
+  <img src="https://visitor-badge.laggy.pk/takuma-tsx.svg" alt="Profile views" />
 </p>
 
 ---
