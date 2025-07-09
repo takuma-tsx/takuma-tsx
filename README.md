@@ -10,10 +10,6 @@
   Sharing real internship experiences through <a href="https://techroid.jp" target="_blank">TechRoid</a>.
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laggy.pk/takuma-tsx.svg" alt="Profile views" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
